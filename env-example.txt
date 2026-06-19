@@ -1,0 +1,4 @@
+Copy this file's content into a file named ".env.local" in your project root before running locally.
+Never commit your real .env.local file — it's already excluded in .gitignore.
+
+ANTHROPIC_API_KEY=sk-ant-your-real-key-here
